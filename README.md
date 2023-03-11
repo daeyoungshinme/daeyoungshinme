@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 ## ⚡ Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
